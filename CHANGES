@@ -1,0 +1,29 @@
+
+This is the CHANGES file of the PAHFIT distribution
+
+Version 1.2
+===========
+
+ - More sane report output format, including reduced Chi-Sq.
+ - Add PAHFIT_MAIN_FEATURE_POWER, for computing blended feature
+   powers.
+ - Update documentation headers.
+
+Version 1.1
+===========
+
+ - Input wavelength for PAHFIT is in the *observed frame*, with the
+   REDSHIFT used to correct it.  All fits are still performed in the
+   rest frame.
+ - Refined central position and widths for several dust features.
+ - Added "19um" dust feature centered at 18.92um.
+
+Version 1.0
+===========
+
+ - Minor modifications to the dust feature set.
+
+Version 0.9
+===========
+
+ - First release

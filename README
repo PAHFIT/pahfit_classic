@@ -1,0 +1,28 @@
+
+PAHFIT  --  Robust PAH spectrum decomposition
+
+  JD Smith & Bruce Draine
+
+  turtle.as.arizona.edu/jdsmith/pahfit.php
+
+=====================================================================
+
+Reference
+=========
+
+PAHFIT is described in detail in:
+    Smith, J.D., Draine B.T., et al., ApJ, 2006 (astro-ph/0610913)
+
+Access 
+======
+
+PAHFIT is available under the terms of the GNU General Public
+License. Published use of results from PAHFIT should include the above
+reference.
+
+More Information
+================
+
+For information on installing and running PAHFIT, see:
+
+  turtle.as.arizona.edu/jdsmith/pahfit.php
